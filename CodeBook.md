@@ -1,5 +1,5 @@
 # Code Book
-The script cleaning_code.R does as follow:
+The script run_analysis.R does as follow:
 
 1. First, downloads and unzips the folder using the url
 2. Then, loads the data on which the cleaning is done as well as the rest of the necessary files in the folder.
